@@ -9,7 +9,7 @@ namespace Firehose.Web.Authors
     public class EnriqueIncio : IAmACommunityMember
     {
         public string FirstName => "Enrique";
-        public string LastName => "Incio Chapilliquen";
+        public string LastName => "Incio Chapilliquén";
         public string StateOrRegion => "Trujillo, Perú";
         public string EmailAddress => "enrique.incio@evsoftconsultores.com";
         public string ShortBioOrTagLine => "Ayudando a los desarrolladores entusiastas a aprender Xamarin.Forms, ASP.NET, azure";
